@@ -36,14 +36,14 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 > •رتــبــتــك : ${role}
 *• ──╾⊱﹝⚜️﹞⊰╼── •*
 ╗───¤مــعلــومــات الــ🤖بــوت
-> •إســم الــبــوت: زينو🐢ن 
-> •الــمــطــور :Mohamed Elsony
+> •إســم الــبــوت: ستيڤن 
+> •الــمــطــور :ستيڤن
 > •مــدة الــتــشــغــيل : ${uptime}
 *• ──╾⊱﹝⚜️﹞⊰╼── •*
 *~⌬ تــ✍︎ــوقــيــع ↡~*🖋️
-*⌞⚜️┊polite ス M.Z┊⚜️⌝*
+*⌞⚜️┊ス M.Z┊⚜️⌝*
 *• ──╾⊱﹝⚜️﹞⊰╼── •*
-> Copyright © 2024 Elsony`,subtitle: "Elsony",},header: { hasMediaAttachment: true,...(await prepareWAMessageMedia({ image : { url: Elsony } }, { upload: conn.waUploadToServer }, {quoted: m}))},
+> Copyright © 2024 ستيڤن`,subtitle: "Elsony",},header: { hasMediaAttachment: true,...(await prepareWAMessageMedia({ image : { url: Elsony } }, { upload: conn.waUploadToServer }, {quoted: m}))},
                     contextInfo: {
                         mentionedJid: [m.sender],
                         isForwarded: false,
@@ -56,7 +56,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                     title: '⌈🛡╎الــقــوائـــم╎🛡⌋',
                                     sections: [
                                         {
-                                            title: 'مــرحـ🛡ـبــا بــك فـي مــ☑هــام زينون بـ🤖ـوت',
+                                            title: 'مــرحـ🛡ـبــا بــك فـي مــ☑هــام ستيڤن بـ🤖ـوت',
                                             highlight_label: 'بعبص براحتك يابرو 🤖',
                                             rows: [
                                                 {
