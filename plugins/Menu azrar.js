@@ -149,7 +149,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                      },
                      {
                name: "cta_url",
-               buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":"https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3","merchant_url":"https://chat.whatsapp.com/JsaqRUnNyXb0EuYG1sAxd3"}'
+               buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":"https://chat.whatsapp.com/JRz2Z2IqhfbI10PbPE5Ydq","merchant_url":"https://chat.whatsapp.com/JRz2Z2IqhfbI10PbPE5Ydq"}'
                             }
                         ]
                     }
