@@ -32,15 +32,12 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
 *⌬∙ • ──╾⊱﹝⚜️﹞⊰╼── • ∙⌬*
 > 👨🏻‍💻|الاسكربت
 
-https://github.com/od
+....
 
-> 👨🏻‍💻|قناتي عليها شرح اذاي تنصب البوت
 
-http://www.youtube.com/@Elsony_247
+> 👨🏻‍💻|قروبنا 
 
-> 👨🏻‍💻|قناتي علي الواتساب بنزل اكواد مهمة واكواد العاب هناك
-
-https://chat.whatsapp.com/BrQVKh6Kt0X8LuMVWzW9XR
+https://chat.whatsapp.com/JRz2Z2IqhfbI10PbPE5Ydq
 *⌬∙ • ──╾⊱﹝⚜️﹞⊰╼── • ∙⌬*
 *~⌬ تــ✍︎ــوقــيــع ↡~*🖋️
 *⌞⚜️┊Zenon ス M.E.Z┊⚜️⌝*
