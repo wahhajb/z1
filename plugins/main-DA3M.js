@@ -5,12 +5,12 @@ let handler = async m => m.reply(`
 _GROUP:_
 ─────────────
 ▢ انضم إلى مجموعة البوت *العامة والدعم*
-https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z
+https://chat.whatsapp.com/JRz2Z2IqhfbI10PbPE5Ydq
 
 ─────────────
 
 ▢ *YouTube*
-• http://www.youtube.com/@Elsony_247
+• 
 
 
 `.trim())
